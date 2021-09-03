@@ -20,7 +20,7 @@ Porém alterei para uma lojá para os filmes da Netflix como poder comprar as s�
 As seguintes ferramentas foram usadas na construção do projeto:
 - HTML5  :heavy_check_mark:
 - CSS3  :heavy_check_mark:
-- Jquary :heavy_check_mark:
+- Jquery :heavy_check_mark:
 
 # Getting Started :flags:
 
