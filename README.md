@@ -1,6 +1,6 @@
 # Store-Flix
-Projeto Netflix, esse projeto destina-se ao desafio proposto a fazer um clone do Netflix.
-Porém alterei para uma lojá para os filmes da Netflix como poder comprar as séries/filmes, e acessórios de cada um.
+Projeto Netflix, esse projeto destina-se ao desafio proposto a fazer um clone do Netflix. 
+Porém alterei para uma loja onde os filmes da Netflix tem como comprar as séries/filmes, e acessórios de acordo com o filme.
 
 # [Netflix](https://www.netflix.com/br/)
 
